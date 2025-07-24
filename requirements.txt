@@ -1,0 +1,12 @@
+streamlit
+fastapi
+uvicorn
+langchain
+langchain-google-genai
+google-search-results
+python-dotenv
+pandas
+requests
+easyocr
+torch
+torchvision
