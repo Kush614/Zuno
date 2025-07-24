@@ -7,7 +7,7 @@
 
 Zuno is an intelligent e-commerce agent designed to simplify the online shopping experience. It acts as a personal shopping advisor, leveraging a multi-agent system, advanced search tools, and user-defined priorities to deliver highly personalized product recommendations.
 
-![Zuno Screenshot](https://i.imgur.com/w4J9l2A.png) <!-- You can replace this with your own screenshot -->
+![Zuno Video Demo](https://youtu.be/JIwXa71ZoAY?si=AVpXTX4kKjUJjexP) <!-- You can replace this with your own screenshot -->
 
 ## ✨ Features
 
