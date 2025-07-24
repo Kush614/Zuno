@@ -1,8 +1,4 @@
-Of course. Here is a professionally formatted, comprehensive README.md file, ready for you to copy and paste directly into your GitHub repository.
 
-It includes all the sections you requested: a project overview, features, architecture, a detailed installation guide, and complete API documentation with examples.
-
-Generated markdown
 # Zuno: AI-Powered Multimodal Shopping Advisor
 
 ![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
